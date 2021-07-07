@@ -13,4 +13,4 @@ Features:
 6. Data update and deleted by logged in user.
 7. uses 3rd party image hosting for product Image.
 
-Live Link [Sunrise Mart](https://elegant-hermann-648410.netlify.app/)
+Live Link [Sunrise Mart](https://sunrise-mart.netlify.app/)
